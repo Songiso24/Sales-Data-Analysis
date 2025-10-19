@@ -60,7 +60,7 @@ It was built to identify **key profitability drivers**, evaluate **sales distrib
 
 ---
 
-### 💳 **Payment Mode Insights**
+###  **Payment Mode Insights**
 
 
 - **Debit Card** transactions are most profitable with the **highest average order value (9.1K)**.  
@@ -69,14 +69,14 @@ It was built to identify **key profitability drivers**, evaluate **sales distrib
 
 ---
 
-### 🗺️ **State-Level Profit Distribution**
+###  **State-Level Profit Distribution**
 
 - **Florida and New York** are the most profitable states, both at around **0.31M**.  
 - The **Midwestern and Southern states** like Illinois and Texas also contribute significantly.
 
 ---
 
-### 🪑 **Sub-Category Profit Breakdown**
+###  **Sub-Category Profit Breakdown**
 
 - **Markers, Tables, and Paper** dominate profits, each contributing **≥0.15M**.  
 - The **top six sub-categories** together account for **over half of total profit**.  
